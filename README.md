@@ -8,7 +8,7 @@ Documentação do projeto construida para a o segundo semestre de 2023 da faculd
 
  -Cauã Gustavo | @h.Cauã Gustavo
 
- -Gabriel Yukio | @****
+ -Gabriel Yukio | @GabrielYukioMC
 
  -Jhulia Cristina | @jhulia-cristina
 
